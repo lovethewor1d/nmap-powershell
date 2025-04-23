@@ -25,7 +25,7 @@ This PowerShell script performs automated Nmap scans on multiple user-defined IP
 
 ## 💻 Requirements
 
-- **PowerShell (Windows)**
+- **PowerShell**
 - **Nmap** must be installed and added to system PATH.
 
 ---
